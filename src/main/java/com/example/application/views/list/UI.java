@@ -72,7 +72,7 @@ public class UI extends VerticalLayout {
     private TextField receiverUsername8 = new TextField();
     private TextField receiverUsername9 = new TextField();
 
-    private TextField receiverLastName0 = new TextField("First Name");
+    private TextField receiverLastName0 = new TextField("Last Name");
     private TextField receiverLastName1 = new TextField();
     private TextField receiverLastName2 = new TextField();
     private TextField receiverLastName3 = new TextField();
